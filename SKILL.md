@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-3part-proposal-engine
-description: "Sequence proposals through Status Quo, Instability, and Resolution." Use this when working on fitzpatrick 3part proposal engine.
+description: "Sequence proposals through Status Quo, Instability, and Resolution. Use this when working on fitzpatrick 3part proposal engine."
 category: "Writing & Communication"
 triggers:
   - "3part proposal engine"
